@@ -5,6 +5,7 @@ public class Main {
         System.out.println("VSCODE IDEA");
         System.out.println("IntelliJ IDEA");
 
+        System.out.println("intellij test");
         System.out.println("vscode test...");
     }
 }
