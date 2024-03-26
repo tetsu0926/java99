@@ -6,6 +6,6 @@ public class T10 {
         System.out.println("테스트");
         System.out.println("잘되는건가??");
         System.out.println("후...");
-        System.out.println("후...");
+        System.out.println("병합이되는건가?");
     }
 }
