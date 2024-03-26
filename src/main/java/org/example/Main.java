@@ -9,12 +9,7 @@ public class Main {
 
         TreeSet<Integer> lotto = new TreeSet<>();
 
-
-        // [4, 11, 21, 34, 40, 42]
-        // [5, 18, 29, 35, 36, 41]
-        // [5, 15, 18, 25, 35, 40]
-        // 16, 19, 24, 25, 29, 37]
-        int total = 167;
+        int total = 100;
         List<Integer> list = Arrays.asList(3, 13, 30, 33, 43, 45);
 
         for(int i=0; i<1005; i++) {
