@@ -7,6 +7,7 @@ public class T10 {
         System.out.println("my first java code 1");
         System.out.println("my first java code 2");
         System.out.println("my first java code 3");
-        System.out.println("my first java code 4");
+        System.out.println("my first java code 40");
+        System.out.println("my first java code 41");
     }
 }
