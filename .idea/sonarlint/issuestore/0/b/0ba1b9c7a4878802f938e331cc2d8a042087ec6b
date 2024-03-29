@@ -1,2 +1,5 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(÷Áî»8»ÁãÂâ1
+m	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8ÄÔĞÔè1J$84353097-f60e-4ef9-8d99-a2ef1a502c05
+r	java:S106"+Replace this use of System.out by a logger.(´Ë€¦ûÿÿÿÿ8ÅÔĞÔè1J$e67fb08a-5b28-438d-b7c8-c735fc4389f4
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8êÔĞÔè1J$a9a60f07-ed10-48cd-a6ab-e5d1ebb11dbe
